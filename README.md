@@ -26,6 +26,12 @@ Download the latest APK from the Releases section.
 
 ## Screenshots
 
+![Home Screen(screenshots/ss1)]
+![Home Screen(screenshots/ss2)]
+![Home Screen(screenshots/ss3)]
+![Home Screen(screenshots/ss4)]
+![Home Screen(screenshots/ss5)]
+
 ---
 
 ## Requirements
