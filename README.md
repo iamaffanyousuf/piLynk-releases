@@ -26,11 +26,11 @@ Download the latest APK from the Releases section.
 
 ## Screenshots
 
-![Home Screen(screenshots/ss1.png)]
-![Home Screen(screenshots/ss2.jpg)]
-![Home Screen(screenshots/ss3.jpg)]
-![Home Screen(screenshots/ss4.png)]
-![Home Screen(screenshots/ss5.png)]
+![Home Screen](screenshots/ss1.png)
+![Home Screen](screenshots/ss2.jpg)
+![Home Screen](screenshots/ss3.jpg)
+![Home Screen](screenshots/ss4.png)
+![Home Screen](screenshots/ss5.png)
 
 ---
 
