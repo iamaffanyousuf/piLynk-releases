@@ -38,7 +38,7 @@ Download the latest APK from the Releases section.
 
 Android 7.0+
 
-Both devices connected to the same network.
+All devices connected to the same network.
 
 ---
 
